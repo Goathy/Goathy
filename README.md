@@ -14,7 +14,7 @@ I'm 23 years old 💪 technology and open-source software 👨‍💻 enthusiast
 | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 
 
-> ### including [<img src="https://cdn.svgporn.com/logos/bash.svg" width="25px">](https://www.gnu.org/software/bash/) scriptiong
+> ### including [<img src="https://cdn.svgporn.com/logos/bash.svg" width="25px">](https://www.gnu.org/software/bash/) scripting
 
 ## Tools 🔧
 
