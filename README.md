@@ -1,7 +1,3 @@
-Hi I'm Jakub 👋
-
-I'm 23 years old 💪 technology and open-source software 👨‍💻 enthusiast. I love unix/linux base systems and CLI programs.
-
 ## My current tech stack ⚡
 
 | [<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="30px">](https://nodejs.org) | [<img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="nestjs" width="30px">](https://nestjs.com/) | [<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="30px">](https://www.postgresql.org/) | [<img class="typeorm" src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" alt="typeorm" width="80px">](https://typeorm.io) | [<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="30px">](https://graphql.org/) |
