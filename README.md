@@ -1,4 +1,4 @@
-Hi I"m Jakub 👋
+Hi I'm Jakub 👋
 
 I"m 23 years old 💪 technology and open-source software 👨‍💻 enthusiast. I'm from Poznan. I love unix/linux base systems and CLI programs.
 
