@@ -10,7 +10,7 @@
 |----|----|
 
 
-> ### including [<img src="https://cdn.svgporn.com/logos/bash.svg" width="25px">](https://www.gnu.org/software/bash/) scripting
+> ### including [<img src="https://bashlogo.com/img/logo/svg/full_colored_dark.svg" width="60px">](https://www.gnu.org/software/bash/) scripting
 
 ## Tools 🔧
 
