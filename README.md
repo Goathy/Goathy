@@ -36,5 +36,5 @@
 |----|----|----|----|----|----|
 
 ## Stay in touch 
-|[<img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="gmail" width="25px">](mailto:goathy.dev@gmail.com)|
-|----|
+|[<img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="gmail" width="25px">](mailto:goathy.dev@gmail.com)| [<img src="https://cdn.svgporn.com/logos/linkedin.svg" alt="linkedin" width="70px">](https://www.linkedin.com/in/jakub-ga%C5%82ecki-6877741b3/)
+|----|----|
