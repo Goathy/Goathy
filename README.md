@@ -32,8 +32,8 @@
 
 ## Learning 📚
 
-| [<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="30px">](https://graphql.org/) | [<img src="https://cdn.svgporn.com/logos/apollostack.svg" alt="apollo" width="30px">](https://www.apollographql.com/) | [<img src="https://cdn.svgporn.com/logos/redis.svg" alt="redis" width="30px">](https://redis.io/) | [<img src="https://cdn.svgporn.com/logos/prisma.svg" alt="prisma" width="30px">](https://www.prisma.io/) | [<img src="https://cdn.svgporn.com/logos/jest.svg" alt="jest" width="30px">](https://jestjs.io/) | [<img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" alt="typeorm" width="80px">](https://typeorm.io) | [<img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="30px">](https://firebase.google.com/)|
-|----|----|----|----|----|----|----|
+| [<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="30px">](https://graphql.org/) | [<img src="https://cdn.svgporn.com/logos/apollostack.svg" alt="apollo" width="30px">](https://www.apollographql.com/) | [<img src="https://cdn.svgporn.com/logos/redis.svg" alt="redis" width="30px">](https://redis.io/) | [<img src="https://cdn.svgporn.com/logos/prisma.svg" alt="prisma" width="30px">](https://www.prisma.io/) | [<img src="https://cdn.svgporn.com/logos/jest.svg" alt="jest" width="30px">](https://jestjs.io/) | [<img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" alt="typeorm" width="80px">](https://typeorm.io) | [<img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="30px">](https://firebase.google.com/)|[<img src="https://cdn.svgporn.com/logos/hapi.svg" alt="hapijs" width="45px">](https://hapi.dev/) |
+|----|----|----|----|----|----|----|----|
 
 ## Stay in touch 
 |[<img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="gmail" width="25px">](mailto:goathy.dev@gmail.com)| [<img src="https://cdn.svgporn.com/logos/linkedin.svg" alt="linkedin" width="70px">](https://www.linkedin.com/in/jakub-ga%C5%82ecki-6877741b3/)
