@@ -1,7 +1,7 @@
 ## My current tech stack ⚡
 
-| [<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="30px">](https://nodejs.org) | [<img src="https://cdn.svgporn.com/logos/hapi.svg" alt="hapijs" width="45px">](https://hapi.dev/) | [<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="30px">](https://www.mysql.com/) | [<img src="https://cdn.svgporn.com/logos/prisma.svg" alt="prisma" width="30px">](https://www.prisma.io/)
-|----|----|----|----|
+| [<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="30px">](https://nodejs.org) | [<img src="https://cdn.svgporn.com/logos/hapi.svg" alt="hapijs" width="45px">](https://hapi.dev/) | [<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="30px">](https://www.mysql.com/) | [<img src="https://cdn.svgporn.com/logos/prisma.svg" alt="prisma" width="30px">](https://www.prisma.io/) | [<img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="30px">](https://firebase.google.com/)|
+|----|----|----|----|----|
 
 
 ## Programming languages 🌎
@@ -38,3 +38,4 @@
 ## Stay in touch 
 |[<img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="gmail" width="25px">](mailto:goathy.dev@gmail.com)| [<img src="https://cdn.svgporn.com/logos/linkedin.svg" alt="linkedin" width="70px">](https://www.linkedin.com/in/jakub-ga%C5%82ecki-6877741b3/)
 |----|----|
+
