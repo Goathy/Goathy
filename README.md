@@ -1,34 +1,59 @@
+<h1 align="center">Hi 👋, I'm Jakub</h1>
+<h3 align="center">Backend developer with love to CLI tools & servers related stuff</h3>
 
-## Programming languages 🌎
+- 🌱 I’m currently learning **Go**
 
-| [<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="30px">](https://www.typescriptlang.org) | [<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="30px">](https://github.com/tc39) | [<img src="https://bashlogo.com/img/logo/svg/full_colored_dark.svg" width="90px">](https://www.gnu.org/software/bash/) |
-|----|----|----|
+- 📫 How to reach me **goathy.dev@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/jakub-ga%c5%82ecki-6877741b3/" target="blank"><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="https://www.linkedin.com/in/jakub-ga%c5%82ecki-6877741b3/" height="30" width="40" /></a>
+</p>
 
-## Tools 🔧
-
-| [<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="code" width="30px">](https://code.visualstudio.com/) | [<img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" width="30px">](https://git-scm.com) | [<img src="https://cdn.svgporn.com/logos/knex.svg" alt="knexjs" width="30px">](http://knexjs.org/) | [<img class="express" src="https://cdn.svgporn.com/logos/express.svg" alt="express" width="100px">](http://expressjs.com/) | [<img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="docker" width="30px">](https://www.docker.com) | [<img src="https://cdn.svgporn.com/logos/azure-icon.svg" alt="azure" width="30px">](https://azure.microsoft.com/) | [<img src="https://cdn.svgporn.com/logos/puppeteer.svg" alt="puppeteer" width="30px">](https://developers.google.com/web/tools/puppeteer/) | [<img src="https://cdn.svgporn.com/logos/sequelize.svg" alt="sequelize" width="30px">](https://sequelize.org) | [<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="30px">](https://nodejs.org) | [<img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="nestjs" width="30px">](https://nestjs.com/) | [<img src="https://cdn.svgporn.com/logos/eslint.svg" alt="eslint" width="30px">](https://eslint.org) |  
-|----|----|----|----|----|----|----|----|----|----|----|
-
-
-| [<img src="https://cdn.svgporn.com/logos/prettier.svg" alt="prettier" width="30px">](https://prettier.io)  | [<img src="https://cdn.svgporn.com/logos/swagger.svg" alt="prettier" width="30px">](https://swagger.io/) | [<img src="https://jwt.io/img/pic_logo.svg" alt="jsonwebtoken" width="30px">](https://jwt.io) | [<img src="https://cdn.svgporn.com/logos/passport.svg" alt="passport" width="30px">](http://www.passportjs.org/)  | [<img src="https://cdn.svgporn.com/logos/hapi.svg" alt="hapijs" width="45px">](https://hapi.dev/) | [<img src="https://cdn.svgporn.com/logos/prisma.svg" alt="prisma" width="30px">](https://www.prisma.io/) | [<img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="30px">](https://firebase.google.com/) | [<img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" alt="typeorm" width="80px">](https://typeorm.io) | [<img src="https://cdn.svgporn.com/logos/jest.svg" alt="jest" width="30px">](https://jestjs.io/) | [<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="30px">](https://graphql.org/) | [<img src="https://cdn.svgporn.com/logos/apollostack.svg" alt="apollo" width="30px">](https://www.apollographql.com/) | 
-|----|----|----|----|----|----|----|----|----|----|----|
-
-## Databases 🏬
-
-| [<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="30px">](https://www.mysql.com/) | [<img src ="https://cdn.svgporn.com/logos/mariadb-icon.svg" alt="mariadb" width="30px">](https://mariadb.org) | [<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="30px">](https://www.postgresql.org/) | [<img src="https://cdn.svgporn.com/logos/redis.svg" alt="redis" width="30px">](https://redis.io/) |
-|----|----|----|----|
-
-
-## Operating system 💻
-
-| [<img src="https://cdn.svgporn.com/logos/ubuntu.svg" alt="ubuntu" width="30px">](https://ubuntu.com) | [<img src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="windows" width="30px">](https://www.microsoft.com/) |
-|----|----|
-
-
- 
-
-## Stay in touch 
-|[<img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="gmail" width="25px">](mailto:goathy.dev@gmail.com)| [<img src="https://cdn.svgporn.com/logos/linkedin.svg" alt="linkedin" width="70px">](https://www.linkedin.com/in/jakub-ga%C5%82ecki-6877741b3/)
-|----|----|
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+            alt="docker" width="40" height="40" /> </a> <a href="https://firebase.google.com/" target="_blank"
+        rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+    </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
+        href="https://graphql.org" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
+    </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+            width="40" height="40" /> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
+    </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql" width="40" height="40" /> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
+            width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs" width="40" height="40" /> </a> <a href="https://www.postgresql.org" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+            alt="postgresql" width="40" height="40" /> </a> <a href="https://github.com/puppeteer/puppeteer"
+        target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg"
+            alt="puppeteer" width="40" height="40" /> </a> <a href="https://redis.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+            alt="redis" width="40" height="40" /> </a> <a href="https://www.sqlite.org/" target="_blank"
+        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"
+            height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript" width="40" height="40" /> </a> <a href="https://www.vagrantup.com/" target="_blank"
+        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant"
+            width="40" height="40" /> </a>
+    <a href="https://curl.se/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-icon.svg" alt="curl" width="40" height="40" />
+    </a>
+</p>
