@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">Backend developer with love to CLI tools & servers related stuff</h3>
 
-- 🌱 I’m currently learning **Go**
-
 - 📫 How to reach me **goathy.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
